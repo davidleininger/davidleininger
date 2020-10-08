@@ -1,3 +1,4 @@
+![David Leininger](https://raw.githubusercontent.com/davidleininger/davidleininger/master/images/gh-header.svg)
 ### Hi there 👋. I like pizza.
 
 <!--
